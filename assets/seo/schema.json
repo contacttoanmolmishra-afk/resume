@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.lakumnarvirsinh.com/#website",
+      "url": "https://www.lakumnarvirsinh.com/",
+      "name": "Anmol Mishra — Senior Flutter Developer",
+      "inLanguage": "en",
+      "publisher": {
+        "@id": "https://www.lakumnarvirsinh.com/#person"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.lakumnarvirsinh.com/#person",
+      "name": "Anmol Mishra",
+      "alternateName": "Anmol Mishra",
+      "jobTitle": "Senior Flutter Developer",
+      "url": "https://www.lakumnarvirsinh.com/",
+      "image": "https://www.lakumnarvirsinh.com/assets/img/me.png",
+      "sameAs": [],
+      "knowsAbout": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "REST APIs",
+        "State management",
+        "Clean Architecture",
+        "CI/CD",
+        "SQLite",
+        "WebSockets"
+      ]
+    }
+  ]
+}
+
